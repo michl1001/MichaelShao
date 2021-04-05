@@ -2,7 +2,8 @@
 
 ### I'm a UCSD Computer Engineering Student looking to build stuff that helps people.
 
-![welding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkemperamerica.com%2Finternational-cancer-researchers-say-welding-smoke-carcinogenic%2F&psig=AOvVaw2wFn_yXQzQrQOR3Qe45cOW&ust=1617342050197000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjh_vaq3O8CFQAAAAAdAAAAABAD)
+![welding](welding.jpg)
+*What people imagine coding is like*
 
 -------------------------
 
